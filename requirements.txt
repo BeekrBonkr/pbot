@@ -1,0 +1,13 @@
+discord.py
+apraw
+requests
+Pillow
+aiohttp
+pyfiglet
+psutil
+wikipedia-api
+PyYAML
+termcolor
+wand
+regex
+aiofiles
