@@ -223,4 +223,4 @@ async def reddit_command(ctx, subreddit: str):
         await send_embed(ctx, subreddit, submission)
 
 
-bot.run('MTEzNDExNjIzNDk2MzcxNDA2OQ.GwTyTK.2kJA2_vG8RIiGAoUv_eX5ZtMK7Q151rat01j44')
+bot.run('YOUR API KEY HERE')
